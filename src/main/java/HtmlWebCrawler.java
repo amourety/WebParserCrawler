@@ -23,7 +23,11 @@ public class HtmlWebCrawler extends WebCrawler {
         String url = webUrl.getURL().toLowerCase();
 
         return !EXCLUSIONS.matcher(url).matches()
-                && url.startsWith("https://medium.com/");
+                && (url.startsWith("https://stihi.ru/2018/")
+                || url.startsWith("https://stihi.ru/2015/")
+                || url.startsWith("https://stihi.ru/2016/")
+                || url.startsWith("https://stihi.ru/2017/")
+                || url.startsWith("https://stihi.ru/avtor/amourety"));
     }
 
     @Override

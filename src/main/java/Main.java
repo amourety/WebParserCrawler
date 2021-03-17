@@ -19,7 +19,7 @@ public class Main {
         RobotstxtServer robotstxtServer = new RobotstxtServer(new RobotstxtConfig(), pageFetcher);
         CrawlController controller = new CrawlController(config, pageFetcher, robotstxtServer);
 
-        controller.addSeed("https://medium.com/");
+        controller.addSeed("https://stihi.ru/avtor/amourety");
 
         CrawlController.WebCrawlerFactory<HtmlWebCrawler> factory = HtmlWebCrawler::new;
 
