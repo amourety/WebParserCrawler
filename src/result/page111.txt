@@ -1,0 +1,181 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Frame-Options" content="deny" />
+<meta name="DESCRIPTION" content="Портал предоставляет авторам возможность свободной публикации и обсуждения произведений современной поэзии." />
+<meta name="Keywords" content="стихи стихотворение поэзия поэт поэтический лирика автор литература творчество журнал" />
+<meta name="title" content="Шварц Вадим Николаевич / Стихи.ру" />
+<title>Шварц Вадим Николаевич / Стихи.ру</title>
+<link rel="stylesheet" href="/styles/s_main_11.css">
+<script language="JavaScript" src="/styles/p_main_1.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#505050" alink="#FF0000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<div id="container">
+
+  <div id="header">
+    <div class="line1">
+      <div class="headlogo"><a href="/"><img src="/images/stihi.svg" alt="Стихи.ру" title="Стихи.ру"></a></div>
+      <ul class="headmenu">
+        <li><a href="/authors/">Авторы</a></li>
+        <li><a href="/poems/">Произведения</a></li>
+        <li><a href="/board/">Рецензии</a></li>
+        <li><a href="/search.html">Поиск</a></li>
+        <li><a href="https://shop.stihi.ru/">Магазин</a></li>
+        <li><a href="https://o.stihi.ru/"><nobr>О портале</nobr></a></li>
+        <li><a href="/login/">Вход для авторов</a></li>      </ul>
+    </div>
+  </div>
+  <div class="maintext">
+  <index>
+<span class="authorsphoto"><img src="/photos/amourety.jpg" border="0" alt="Шварц Вадим Николаевич"></span><br>
+<h1>Шварц Вадим Николаевич</h1>
+<div ID="textlink"><a href="/login/messages.html?amourety">Написать личное сообщение</a> &nbsp;&nbsp; <a href="/recommend.html?amourety">Добавить в список избранных</a></div>
+
+<p style="margin-left:20px">
+Произведений: <b>346</b><br>
+<a href="/rec_author.html?amourety">Получено рецензий</a>: <b>22</b><br>
+<a href="/rec_writer.html?amourety">Написано рецензий</a>: <b>9</b><br>
+<a href="/readers.html?amourety">Читателей</a>: <b>12166</b><br>
+</p>
+<h2>Произведения</h2>
+
+<div ID="bookheader"><a href="/avtor/amourety">Произведения, не вошедшие в сборники</a> <font color="#404040"><small>(72)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=24#24">Альбом</a> <font color="#404040"><small>(10)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=23#23">2015 год</a> <font color="#404040"><small>(85)</small></font></div>
+<div ID="bookheader"><a name="27">2013-2014 год</a></div>
+<ul type="square" style="color:#404040">
+<li><a href="/2014/10/13/10661" class="poemlink">Жизнь</a> <small>- гражданская лирика, 13.10.2014 23:01</small></li>
+<li><a href="/2014/11/09/10248" class="poemlink">Мило</a> <small>- любовная лирика, 09.11.2014 19:55</small></li>
+<li><a href="/2014/10/31/11084" class="poemlink">Otium</a> <small>- гражданская лирика, 31.10.2014 23:39</small></li>
+<li><a href="/2014/10/30/8020" class="poemlink">Смыло</a> <small>- гражданская лирика, 30.10.2014 18:43</small></li>
+<li><a href="/2014/10/29/10702" class="poemlink">Возьми с собой</a> <small>- любовная лирика, 29.10.2014 22:47</small></li>
+<li><a href="/2014/11/14/10747" class="poemlink">Снег под подошвой</a> <small>- любовная лирика, 14.11.2014 22:47</small></li>
+<li><a href="/2014/10/08/9662" class="poemlink">Мой октябрь</a> <small>- белый и вольный стих, 08.10.2014 21:52</small></li>
+<li><a href="/2014/10/22/9977" class="poemlink">Никто</a> <small>- гражданская лирика, 22.10.2014 21:33</small></li>
+<li><a href="/2014/10/22/11268" class="poemlink">Форточка</a> <small>- гражданская лирика, 22.10.2014 23:26</small></li>
+<li><a href="/2014/10/23/10456" class="poemlink">Загробный друг</a> <small>- философская лирика, 23.10.2014 22:26</small></li>
+<li><a href="/2014/10/27/152" class="poemlink">И ни капли хорошего</a> <small>- гражданская лирика, 27.10.2014 00:15</small></li>
+<li><a href="/2014/10/29/9650" class="poemlink">Гибли</a> <small>- гражданская лирика, 29.10.2014 21:01</small></li>
+<li><a href="/2014/09/29/10257" class="poemlink">Стучи, поезд, стучи</a> <small>- гражданская лирика, 29.09.2014 22:53</small></li>
+<li><a href="/2014/09/29/10263" class="poemlink">Cпасибо</a> <small>- гражданская лирика, 29.09.2014 22:54</small></li>
+<li><a href="/2014/09/30/4099" class="poemlink">В роуминге.</a> <small>- гражданская лирика, 30.09.2014 12:34</small></li>
+<li><a href="/2014/10/01/10012" class="poemlink">В твои океаны.</a> <small>- любовная лирика, 01.10.2014 22:57</small></li>
+<li><a href="/2014/10/04/8989" class="poemlink">Слушай</a> <small>- гражданская лирика, 04.10.2014 21:28</small></li>
+<li><a href="/2014/10/05/10978" class="poemlink">delete</a> <small>- гражданская лирика, 05.10.2014 23:52</small></li>
+<li><a href="/2014/09/22/9182" class="poemlink">Не срубайте.</a> <small>- гражданская лирика, 22.09.2014 22:04</small></li>
+<li><a href="/2014/09/21/4404" class="poemlink">Я болен</a> <small>- гражданская лирика, 21.09.2014 13:20</small></li>
+<li><a href="/2014/09/15/4046" class="poemlink">Снова</a> <small>- гражданская лирика, 15.09.2014 12:50</small></li>
+<li><a href="/2014/09/14/6334" class="poemlink">Не спрашивай</a> <small>- философская лирика, 14.09.2014 17:09</small></li>
+<li><a href="/2014/09/14/3348" class="poemlink">Пора спать</a> <small>- гражданская лирика, 14.09.2014 11:43</small></li>
+<li><a href="/2014/09/10/5921" class="poemlink">Я буду</a> <small>- любовная лирика, 10.09.2014 16:34</small></li>
+<li><a href="/2014/09/07/8152" class="poemlink">И ты оказался сильным.</a> <small>- гражданская лирика, 07.09.2014 21:09</small></li>
+<li><a href="/2014/09/06/5592" class="poemlink">Не был в сети</a> <small>- философская лирика, 06.09.2014 16:02</small></li>
+<li><a href="/2014/09/04/9096" class="poemlink">Август</a> <small>- гражданская лирика, 04.09.2014 22:48</small></li>
+<li><a href="/2014/08/29/4958" class="poemlink">Могло быть правдой</a> <small>- любовная лирика, 29.08.2014 14:48</small></li>
+<li><a href="/2014/08/29/4693" class="poemlink">За гранью</a> <small>- гражданская лирика, 29.08.2014 14:16</small></li>
+<li><a href="/2014/08/28/9714" class="poemlink">Снег</a> <small>- гражданская лирика, 28.08.2014 23:20</small></li>
+<li><a href="/2014/08/25/5270" class="poemlink">Огниво</a> <small>- гражданская лирика, 25.08.2014 14:48</small></li>
+<li><a href="/2014/08/25/9443" class="poemlink">Спасибо тебе</a> <small>- любовная лирика, 25.08.2014 22:25</small></li>
+<li><a href="/2014/08/25/4773" class="poemlink">Моменты</a> <small>- любовная лирика, 25.08.2014 13:57</small></li>
+<li><a href="/2014/08/22/6106" class="poemlink">О тебе</a> <small>- любовная лирика, 22.08.2014 15:56</small></li>
+<li><a href="/2014/08/15/9547" class="poemlink">Ради тебя</a> <small>- любовная лирика, 15.08.2014 22:50</small></li>
+<li><a href="/2014/08/08/6024" class="poemlink">Поршень</a> <small>- любовная лирика, 08.08.2014 15:47</small></li>
+<li><a href="/2014/07/20/859" class="poemlink">Вместе</a> <small>- любовная лирика, 20.07.2014 02:07</small></li>
+<li><a href="/2014/08/15/9136" class="poemlink">вот бы</a> <small>- философская лирика, 15.08.2014 22:06</small></li>
+<li><a href="/2014/08/14/5606" class="poemlink">сталь</a> <small>- философская лирика, 14.08.2014 15:33</small></li>
+<li><a href="/2014/08/12/617" class="poemlink">места нет</a> <small>- гражданская лирика, 12.08.2014 01:23</small></li>
+<li><a href="/2014/08/09/5909" class="poemlink">желтый трамвай</a> <small>- философская лирика, 09.08.2014 16:48</small></li>
+<li><a href="/2014/08/05/5168" class="poemlink">быть никем</a> <small>- философская лирика, 05.08.2014 14:55</small></li>
+<li><a href="/2014/07/28/8691" class="poemlink">крыши спят, а я нет</a> <small>- философская лирика, 28.07.2014 22:07</small></li>
+<li><a href="/2014/12/14/8582" class="poemlink">Точка кипения</a> <small>- белый и вольный стих, 14.12.2014 19:18</small></li>
+<li><a href="/2014/12/11/8053" class="poemlink">В облаках</a> <small>- белый и вольный стих, 11.12.2014 18:41</small></li>
+<li><a href="/2014/12/11/7817" class="poemlink">Абжурд</a> <small>- белый и вольный стих, 11.12.2014 18:18</small></li>
+<li><a href="/2014/12/11/7476" class="poemlink">Слёзы войны</a> <small>- белый и вольный стих, 11.12.2014 17:46</small></li>
+<li><a href="/2014/12/08/8254" class="poemlink">Собачьё</a> <small>- белый и вольный стих, 08.12.2014 18:40</small></li>
+<li><a href="/2014/12/07/11354" class="poemlink">Всего доброго</a> <small>- белый и вольный стих, 07.12.2014 22:10</small></li>
+<li><a href="/2014/12/02/11264" class="poemlink">Звезды</a> <small>- белый и вольный стих, 02.12.2014 23:32</small></li>
+</ul>
+<p>продолжение:
+<b>1-50</b>&nbsp;
+<a href="/avtor/amourety&s=50&book=27#27">51-100</a>&nbsp;
+<a href="/avtor/amourety&s=100&book=27#27">101-150</a>&nbsp;
+<a href="/avtor/amourety&s=150&book=27#27">&rarr;</a>&nbsp;
+</p>
+
+<h3>Избранные авторы:</h3>
+<div class="textlink"><a href="/avtor/dimagav" class="recomlink">Птицами</a></div>
+  </index>
+  </div>
+  <div id="footer">
+    <div class="footmenu">
+      <a href="/authors/">Авторы</a>&nbsp;&nbsp; 
+      <a href="/poems/">Произведения</a>&nbsp;&nbsp; 
+      <a href="/board/">Рецензии</a>&nbsp;&nbsp; 
+      <a href="/search.html">Поиск</a>&nbsp;&nbsp; 
+      <a href="https://shop.stihi.ru/">Магазин</a>&nbsp;&nbsp; 
+      <a href="/login/"><nobr>Вход для авторов</nobr></a>&nbsp;&nbsp; 
+      <a href="https://o.stihi.ru/"><nobr>О портале</nobr></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://stihi.ru/">Стихи.ру</a>&nbsp;&nbsp; 
+      <a href="https://proza.ru/">Проза.ру</a>
+    </div>
+
+    <table border="0" cellpadding="5" cellspacing="0" wspace="3" hspace="3" align="right">
+      <tr>
+       <td valign="top"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/rating/ru/literature/' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'></a>")
+//--></script><!--/LiveInternet-->
+</td>
+      </tr>
+    </table>
+    <p>Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании <a href="https://o.stihi.ru/dogovor">пользовательского договора</a>. Все авторские права на произведения принадлежат авторам и охраняются <a href="https://o.stihi.ru/pravo">законом</a>. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании <a href="https://o.stihi.ru/pravila">правил публикации</a> и <a href="https://o.stihi.ru/pravo">законодательства Российской Федерации</a>. Данные пользователей обрабатываются на основании <a href="https://o.stihi.ru/policy">Политики обработки персональных данных</a>. Вы также можете посмотреть более подробную <a href="https://o.stihi.ru/">информацию о портале</a> и <a href="/help/">связаться с администрацией</a>.</p>
+    <p>Ежедневная аудитория портала Стихи.ру &ndash; порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.</p>
+    <p>&copy; Все права принадлежат авторам, 2000-2021. &nbsp; Портал работает под эгидой <a href="https://rossp.ru/" target="_blank">Российского союза писателей</a>. <span style="color:#F00000">18+</span></p>
+  </div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(82264, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/82264" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12103338-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location}
+</script>
+
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,178 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Frame-Options" content="deny" />
+<meta name="DESCRIPTION" content="Портал предоставляет авторам возможность свободной публикации и обсуждения произведений современной поэзии." />
+<meta name="Keywords" content="стихи стихотворение поэзия поэт поэтический лирика автор литература творчество журнал" />
+<meta name="title" content="Шварц Вадим Николаевич / Стихи.ру" />
+<title>Шварц Вадим Николаевич / Стихи.ру</title>
+<link rel="stylesheet" href="/styles/s_main_11.css">
+<script language="JavaScript" src="/styles/p_main_1.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#505050" alink="#FF0000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<div id="container">
+
+  <div id="header">
+    <div class="line1">
+      <div class="headlogo"><a href="/"><img src="/images/stihi.svg" alt="Стихи.ру" title="Стихи.ру"></a></div>
+      <ul class="headmenu">
+        <li><a href="/authors/">Авторы</a></li>
+        <li><a href="/poems/">Произведения</a></li>
+        <li><a href="/board/">Рецензии</a></li>
+        <li><a href="/search.html">Поиск</a></li>
+        <li><a href="https://shop.stihi.ru/">Магазин</a></li>
+        <li><a href="https://o.stihi.ru/"><nobr>О портале</nobr></a></li>
+        <li><a href="/login/">Вход для авторов</a></li>      </ul>
+    </div>
+  </div>
+  <div class="maintext">
+  <index>
+<span class="authorsphoto"><img src="/photos/amourety.jpg" border="0" alt="Шварц Вадим Николаевич"></span><br>
+<h1>Шварц Вадим Николаевич</h1>
+<div ID="textlink"><a href="/login/messages.html?amourety">Написать личное сообщение</a> &nbsp;&nbsp; <a href="/recommend.html?amourety">Добавить в список избранных</a></div>
+
+<p style="margin-left:20px">
+Произведений: <b>346</b><br>
+<a href="/rec_author.html?amourety">Получено рецензий</a>: <b>22</b><br>
+<a href="/rec_writer.html?amourety">Написано рецензий</a>: <b>9</b><br>
+<a href="/readers.html?amourety">Читателей</a>: <b>12166</b><br>
+</p>
+<h2>Произведения</h2>
+
+<ul type="square" style="color:#404040">
+<li><a href="/2018/03/01/11118" class="poemlink">Я был здесь</a> <small>- без рубрики, 01.03.2018 21:47</small></li>
+<li><a href="/2018/02/09/11990" class="poemlink">Со мной</a> <small>- философская лирика, 09.02.2018 23:11</small></li>
+<li><a href="/2018/01/18/567" class="poemlink">Слово</a> <small>- любовная лирика, 18.01.2018 01:19</small></li>
+<li><a href="/2017/12/25/114" class="poemlink">Солнечный день</a> <small>- любовная лирика, 25.12.2017 00:08</small></li>
+<li><a href="/2017/12/25/105" class="poemlink">Равно весие</a> <small>- без рубрики, 25.12.2017 00:08</small></li>
+<li><a href="/2017/12/13/27" class="poemlink">Муравьи</a> <small>- любовная лирика, 13.12.2017 00:01</small></li>
+<li><a href="/2017/11/12/6560" class="poemlink">Мы</a> <small>- без рубрики, 12.11.2017 15:04</small></li>
+<li><a href="/2017/11/01/543" class="poemlink">Прикован к стене, приглушил шаг...</a> <small>- любовная лирика, 01.11.2017 01:14</small></li>
+<li><a href="/2017/10/29/6499" class="poemlink">Мальчик</a> <small>- любовная лирика, 29.10.2017 14:44</small></li>
+<li><a href="/2017/09/30/897" class="poemlink">Деревья рухнут в овраг</a> <small>- без рубрики, 30.09.2017 02:48</small></li>
+<li><a href="/2017/08/21/530" class="poemlink">Вечер</a> <small>- любовная лирика, 21.08.2017 01:32</small></li>
+<li><a href="/2017/07/26/7144" class="poemlink">Словно</a> <small>- любовная лирика, 26.07.2017 17:55</small></li>
+<li><a href="/2017/07/26/4967" class="poemlink">Глубоко в недрах, где-то под землей</a> <small>- без рубрики, 26.07.2017 13:29</small></li>
+<li><a href="/2017/06/18/9404" class="poemlink">Смех</a> <small>- без рубрики, 18.06.2017 22:11</small></li>
+<li><a href="/2017/05/29/10616" class="poemlink">И во сне</a> <small>- любовная лирика, 29.05.2017 22:48</small></li>
+<li><a href="/2017/05/29/10492" class="poemlink">Синтетика</a> <small>- любовная лирика, 29.05.2017 22:33</small></li>
+<li><a href="/2017/04/09/501" class="poemlink">Перестал говорить, перестал слушать...</a> <small>- любовная лирика, 09.04.2017 01:02</small></li>
+<li><a href="/2017/04/03/11622" class="poemlink">Тает безмятежно и медленно мир...</a> <small>- философская лирика, 03.04.2017 22:01</small></li>
+<li><a href="/2017/03/23/4553" class="poemlink">Перманентно прилип к стене...</a> <small>- любовная лирика, 23.03.2017 11:39</small></li>
+<li><a href="/2017/03/14/9723" class="poemlink">Водоворот</a> <small>- любовная лирика, 14.03.2017 19:52</small></li>
+<li><a href="/2017/02/21/416" class="poemlink">Поезда</a> <small>- любовная лирика, 21.02.2017 00:39</small></li>
+<li><a href="/2017/01/09/5919" class="poemlink">Холодные пальцы режут стекло...</a> <small>- без рубрики, 09.01.2017 14:33</small></li>
+<li><a href="/2016/12/21/5711" class="poemlink">Плывет звезда на небе блеклом..</a> <small>- философская лирика, 21.12.2016 14:36</small></li>
+<li><a href="/2016/11/14/12136" class="poemlink">Шагать, спрятав руки в карманах, по гололеду вниз</a> <small>- философская лирика, 14.11.2016 23:35</small></li>
+<li><a href="/2016/11/13/11962" class="poemlink">Я панику ощущал на концах отрезка...</a> <small>- любовная лирика, 13.11.2016 22:32</small></li>
+<li><a href="/2016/11/02/8469" class="poemlink">Я потерял суть в поручнях и автобусах...</a> <small>- любовная лирика, 02.11.2016 18:14</small></li>
+<li><a href="/2016/10/11/10056" class="poemlink">Нервность отчаянных глаз...</a> <small>- любовная лирика, 11.10.2016 21:29</small></li>
+<li><a href="/2016/09/15/8718" class="poemlink">Мы поочередно исчезаем, как птицы...</a> <small>- философская лирика, 15.09.2016 20:04</small></li>
+<li><a href="/2016/08/29/288" class="poemlink">Помоги ветвям этим своими руками...</a> <small>- любовная лирика, 29.08.2016 00:35</small></li>
+<li><a href="/2016/07/30/4347" class="poemlink">Растворимся...</a> <small>- любовная лирика, 30.07.2016 12:57</small></li>
+<li><a href="/2016/07/30/4294" class="poemlink">Луна призывает мое отчаяние...</a> <small>- философская лирика, 30.07.2016 12:49</small></li>
+<li><a href="/2016/07/30/4292" class="poemlink">Будь таким, каким помнит тебя Бог...</a> <small>- философская лирика, 30.07.2016 12:49</small></li>
+<li><a href="/2016/07/07/6577" class="poemlink">Во сне снова предо мною ты...</a> <small>- любовная лирика, 07.07.2016 16:49</small></li>
+<li><a href="/2016/06/19/408" class="poemlink">Я сижу средь капель уже весенних...</a> <small>- без рубрики, 19.06.2016 00:49</small></li>
+<li><a href="/2016/06/19/403" class="poemlink">Не заполняй мной свою голову...</a> <small>- любовная лирика, 19.06.2016 00:48</small></li>
+<li><a href="/2016/06/02/8318" class="poemlink">Малахит</a> <small>- любовная лирика, 02.06.2016 20:10</small></li>
+<li><a href="/2016/05/09/9811" class="poemlink">ali n</a> <small>- без рубрики, 09.05.2016 23:38</small></li>
+<li><a href="/2016/05/01/5019" class="poemlink">Волна</a> <small>- любовная лирика, 01.05.2016 14:26</small></li>
+<li><a href="/2016/04/20/3884" class="poemlink">Незнакомка</a> <small>- любовная лирика, 20.04.2016 11:18</small></li>
+<li><a href="/2016/04/16/8155" class="poemlink">Жемчуг ночи</a> <small>- гражданская лирика, 16.04.2016 18:48</small></li>
+<li><a href="/2016/04/16/8153" class="poemlink">Я громко курю</a> <small>- философская лирика, 16.04.2016 18:48</small></li>
+<li><a href="/2016/04/06/10825" class="poemlink">Печенье</a> <small>- любовная лирика, 06.04.2016 22:19</small></li>
+<li><a href="/2016/04/06/10823" class="poemlink">Содрогаюсь, но молчу...</a> <small>- философская лирика, 06.04.2016 22:19</small></li>
+<li><a href="/2016/03/23/11512" class="poemlink">Сумасшествие</a> <small>- без рубрики, 23.03.2016 22:46</small></li>
+<li><a href="/2016/03/14/10983" class="poemlink">Не любил никого</a> <small>- философская лирика, 14.03.2016 21:52</small></li>
+<li><a href="/2016/03/11/7406" class="poemlink">Лезвия</a> <small>- философская лирика, 11.03.2016 16:34</small></li>
+<li><a href="/2016/03/02/10146" class="poemlink">Лебедь</a> <small>- философская лирика, 02.03.2016 20:13</small></li>
+<li><a href="/2016/02/26/10725" class="poemlink">Умирал, но</a> <small>- гражданская лирика, 26.02.2016 21:06</small></li>
+<li><a href="/2016/02/17/7706" class="poemlink">Запах забытой занудности...</a> <small>- философская лирика, 17.02.2016 17:08</small></li>
+<li><a href="/2016/02/15/5458" class="poemlink">Скамейка</a> <small>- философская лирика, 15.02.2016 13:25</small></li>
+</ul>
+<p>продолжение:
+<b>1-50</b>&nbsp;
+<a href="/avtor/amourety&s=50">51-72</a>&nbsp;
+</p>
+
+<div ID="bookheader"><a href="/avtor/amourety&book=24#24">Альбом</a> <font color="#404040"><small>(10)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=23#23">2015 год</a> <font color="#404040"><small>(85)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=27#27">2013-2014 год</a> <font color="#404040"><small>(179)</small></font></div>
+<h3>Избранные авторы:</h3>
+<div class="textlink"><a href="/avtor/dimagav" class="recomlink">Птицами</a></div>
+  </index>
+  </div>
+  <div id="footer">
+    <div class="footmenu">
+      <a href="/authors/">Авторы</a>&nbsp;&nbsp; 
+      <a href="/poems/">Произведения</a>&nbsp;&nbsp; 
+      <a href="/board/">Рецензии</a>&nbsp;&nbsp; 
+      <a href="/search.html">Поиск</a>&nbsp;&nbsp; 
+      <a href="https://shop.stihi.ru/">Магазин</a>&nbsp;&nbsp; 
+      <a href="/login/"><nobr>Вход для авторов</nobr></a>&nbsp;&nbsp; 
+      <a href="https://o.stihi.ru/"><nobr>О портале</nobr></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://stihi.ru/">Стихи.ру</a>&nbsp;&nbsp; 
+      <a href="https://proza.ru/">Проза.ру</a>
+    </div>
+
+    <table border="0" cellpadding="5" cellspacing="0" wspace="3" hspace="3" align="right">
+      <tr>
+       <td valign="top"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/rating/ru/literature/' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'></a>")
+//--></script><!--/LiveInternet-->
+</td>
+      </tr>
+    </table>
+    <p>Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании <a href="https://o.stihi.ru/dogovor">пользовательского договора</a>. Все авторские права на произведения принадлежат авторам и охраняются <a href="https://o.stihi.ru/pravo">законом</a>. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании <a href="https://o.stihi.ru/pravila">правил публикации</a> и <a href="https://o.stihi.ru/pravo">законодательства Российской Федерации</a>. Данные пользователей обрабатываются на основании <a href="https://o.stihi.ru/policy">Политики обработки персональных данных</a>. Вы также можете посмотреть более подробную <a href="https://o.stihi.ru/">информацию о портале</a> и <a href="/help/">связаться с администрацией</a>.</p>
+    <p>Ежедневная аудитория портала Стихи.ру &ndash; порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.</p>
+    <p>&copy; Все права принадлежат авторам, 2000-2021. &nbsp; Портал работает под эгидой <a href="https://rossp.ru/" target="_blank">Российского союза писателей</a>. <span style="color:#F00000">18+</span></p>
+  </div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(82264, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/82264" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12103338-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location}
+</script>
+
+</div>
+
+</body>
+</html>
+

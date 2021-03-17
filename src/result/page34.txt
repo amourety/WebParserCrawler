@@ -1,0 +1,150 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Frame-Options" content="deny" />
+<meta name="DESCRIPTION" content="Портал предоставляет авторам возможность свободной публикации и обсуждения произведений современной поэзии." />
+<meta name="Keywords" content="стихи стихотворение поэзия поэт поэтический лирика автор литература творчество журнал" />
+<meta name="title" content="Шварц Вадим Николаевич / Стихи.ру" />
+<title>Шварц Вадим Николаевич / Стихи.ру</title>
+<link rel="stylesheet" href="/styles/s_main_11.css">
+<script language="JavaScript" src="/styles/p_main_1.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#505050" alink="#FF0000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<div id="container">
+
+  <div id="header">
+    <div class="line1">
+      <div class="headlogo"><a href="/"><img src="/images/stihi.svg" alt="Стихи.ру" title="Стихи.ру"></a></div>
+      <ul class="headmenu">
+        <li><a href="/authors/">Авторы</a></li>
+        <li><a href="/poems/">Произведения</a></li>
+        <li><a href="/board/">Рецензии</a></li>
+        <li><a href="/search.html">Поиск</a></li>
+        <li><a href="https://shop.stihi.ru/">Магазин</a></li>
+        <li><a href="https://o.stihi.ru/"><nobr>О портале</nobr></a></li>
+        <li><a href="/login/">Вход для авторов</a></li>      </ul>
+    </div>
+  </div>
+  <div class="maintext">
+  <index>
+<span class="authorsphoto"><img src="/photos/amourety.jpg" border="0" alt="Шварц Вадим Николаевич"></span><br>
+<h1>Шварц Вадим Николаевич</h1>
+<div ID="textlink"><a href="/login/messages.html?amourety">Написать личное сообщение</a> &nbsp;&nbsp; <a href="/recommend.html?amourety">Добавить в список избранных</a></div>
+
+<p style="margin-left:20px">
+Произведений: <b>346</b><br>
+<a href="/rec_author.html?amourety">Получено рецензий</a>: <b>22</b><br>
+<a href="/rec_writer.html?amourety">Написано рецензий</a>: <b>9</b><br>
+<a href="/readers.html?amourety">Читателей</a>: <b>12166</b><br>
+</p>
+<h2>Произведения</h2>
+
+<ul type="square" style="color:#404040">
+<li><a href="/2016/02/15/5429" class="poemlink">Он, Артист и Прохожий.</a> <small>- философская лирика, 15.02.2016 13:23</small></li>
+<li><a href="/2016/02/15/5422" class="poemlink">Меня наполняет Ваша угрюмость...</a> <small>- любовная лирика, 15.02.2016 13:22</small></li>
+<li><a href="/2016/02/04/10566" class="poemlink">Я никогда не видел океан...</a> <small>- философская лирика, 04.02.2016 20:29</small></li>
+<li><a href="/2016/02/04/10557" class="poemlink">Холодный пол</a> <small>- философская лирика, 04.02.2016 20:29</small></li>
+<li><a href="/2016/02/04/10553" class="poemlink">Вмешательство</a> <small>- любовная лирика, 04.02.2016 20:29</small></li>
+<li><a href="/2016/02/04/10546" class="poemlink">Вишня</a> <small>- любовная лирика, 04.02.2016 20:28</small></li>
+<li><a href="/2016/02/03/11867" class="poemlink">Жалоба</a> <small>- философская лирика, 03.02.2016 22:11</small></li>
+<li><a href="/2016/02/03/11865" class="poemlink">Обращение</a> <small>- философская лирика, 03.02.2016 22:11</small></li>
+<li><a href="/2016/01/20/9741" class="poemlink">Как мне любить людей?</a> <small>- философская лирика, 20.01.2016 20:03</small></li>
+<li><a href="/2016/01/20/9734" class="poemlink">Кислород</a> <small>- философская лирика, 20.01.2016 20:03</small></li>
+<li><a href="/2016/01/20/9409" class="poemlink">Шум</a> <small>- философская лирика, 20.01.2016 19:32</small></li>
+<li><a href="/2016/01/17/8855" class="poemlink">Бетон и прибой</a> <small>- философская лирика, 17.01.2016 18:08</small></li>
+<li><a href="/2016/01/13/11726" class="poemlink">Почему</a> <small>- гражданская лирика, 13.01.2016 22:12</small></li>
+<li><a href="/2016/01/13/11723" class="poemlink">Сон Ламы</a> <small>- гражданская лирика, 13.01.2016 22:12</small></li>
+<li><a href="/2016/01/06/11292" class="poemlink">Создание человека</a> <small>- философская лирика, 06.01.2016 22:12</small></li>
+<li><a href="/2016/01/03/11072" class="poemlink">Дым губительно приятен...</a> <small>- философская лирика, 03.01.2016 23:30</small></li>
+<li><a href="/2016/01/03/10988" class="poemlink">Лопасти</a> <small>- любовная лирика, 03.01.2016 23:20</small></li>
+<li><a href="/2015/12/30/10808" class="poemlink">Я срываю одежду, чтобы увидеть кожу...</a> <small>- любовная лирика, 30.12.2015 23:22</small></li>
+<li><a href="/2015/12/30/10803" class="poemlink">Я ничего не пишу...</a> <small>- философская лирика, 30.12.2015 23:22</small></li>
+<li><a href="/2015/12/25/5621" class="poemlink">Образ</a> <small>- философская лирика, 25.12.2015 14:23</small></li>
+<li><a href="/2015/12/25/5616" class="poemlink">Меня интересуют люди...</a> <small>- гражданская лирика, 25.12.2015 14:22</small></li>
+<li><a href="/2015/12/23/8243" class="poemlink">Линии</a> <small>- философская лирика, 23.12.2015 19:08</small></li>
+</ul>
+<p>продолжение:
+<a href="/avtor/amourety&s=0">1-50</a>&nbsp;
+<b>51-72</b>&nbsp;
+</p>
+
+<div ID="bookheader"><a href="/avtor/amourety&book=24#24">Альбом</a> <font color="#404040"><small>(10)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=23#23">2015 год</a> <font color="#404040"><small>(85)</small></font></div>
+<div ID="bookheader"><a href="/avtor/amourety&book=27#27">2013-2014 год</a> <font color="#404040"><small>(179)</small></font></div>
+<h3>Избранные авторы:</h3>
+<div class="textlink"><a href="/avtor/dimagav" class="recomlink">Птицами</a></div>
+  </index>
+  </div>
+  <div id="footer">
+    <div class="footmenu">
+      <a href="/authors/">Авторы</a>&nbsp;&nbsp; 
+      <a href="/poems/">Произведения</a>&nbsp;&nbsp; 
+      <a href="/board/">Рецензии</a>&nbsp;&nbsp; 
+      <a href="/search.html">Поиск</a>&nbsp;&nbsp; 
+      <a href="https://shop.stihi.ru/">Магазин</a>&nbsp;&nbsp; 
+      <a href="/login/"><nobr>Вход для авторов</nobr></a>&nbsp;&nbsp; 
+      <a href="https://o.stihi.ru/"><nobr>О портале</nobr></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://stihi.ru/">Стихи.ру</a>&nbsp;&nbsp; 
+      <a href="https://proza.ru/">Проза.ру</a>
+    </div>
+
+    <table border="0" cellpadding="5" cellspacing="0" wspace="3" hspace="3" align="right">
+      <tr>
+       <td valign="top"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/rating/ru/literature/' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'></a>")
+//--></script><!--/LiveInternet-->
+</td>
+      </tr>
+    </table>
+    <p>Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании <a href="https://o.stihi.ru/dogovor">пользовательского договора</a>. Все авторские права на произведения принадлежат авторам и охраняются <a href="https://o.stihi.ru/pravo">законом</a>. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании <a href="https://o.stihi.ru/pravila">правил публикации</a> и <a href="https://o.stihi.ru/pravo">законодательства Российской Федерации</a>. Данные пользователей обрабатываются на основании <a href="https://o.stihi.ru/policy">Политики обработки персональных данных</a>. Вы также можете посмотреть более подробную <a href="https://o.stihi.ru/">информацию о портале</a> и <a href="/help/">связаться с администрацией</a>.</p>
+    <p>Ежедневная аудитория портала Стихи.ру &ndash; порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.</p>
+    <p>&copy; Все права принадлежат авторам, 2000-2021. &nbsp; Портал работает под эгидой <a href="https://rossp.ru/" target="_blank">Российского союза писателей</a>. <span style="color:#F00000">18+</span></p>
+  </div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(82264, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/82264" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12103338-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location}
+</script>
+
+</div>
+
+</body>
+</html>
+

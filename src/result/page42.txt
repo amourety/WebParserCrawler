@@ -1,0 +1,144 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-Frame-Options" content="deny" />
+<meta name="DESCRIPTION" content="Портал предоставляет авторам возможность свободной публикации и обсуждения произведений современной поэзии." />
+<meta name="Keywords" content="стихи стихотворение поэзия поэт поэтический лирика автор литература творчество журнал" />
+<meta name="title" content="Я никогда не видел океан... (Шварц Вадим Николаевич) / Стихи.ру" />
+<title>Я никогда не видел океан... (Шварц Вадим Николаевич) / Стихи.ру</title>
+<link rel="stylesheet" href="/styles/s_main_11.css">
+<script language="JavaScript" src="/styles/p_main_1.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000080" vlink="#505050" alink="#FF0000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<div id="container">
+
+  <div id="header">
+    <div class="line1">
+      <div class="headlogo"><a href="/"><img src="/images/stihi.svg" alt="Стихи.ру" title="Стихи.ру"></a></div>
+      <ul class="headmenu">
+        <li><a href="/authors/">Авторы</a></li>
+        <li><a href="/poems/">Произведения</a></li>
+        <li><a href="/board/">Рецензии</a></li>
+        <li><a href="/search.html">Поиск</a></li>
+        <li><a href="https://shop.stihi.ru/">Магазин</a></li>
+        <li><a href="https://o.stihi.ru/"><nobr>О портале</nobr></a></li>
+        <li><a href="/login/">Вход для авторов</a></li>      </ul>
+    </div>
+  </div>
+  <div class="maintext">
+  <index>
+<h1>Я никогда не видел океан...</h1>
+<div class="titleauthor"><em><a href="/avtor/amourety">Шварц Вадим Николаевич</a></em></div>
+<div class="text">
+Я никогда не видел океан,<br>
+Не ощущал птичью высоту.<br>
+Лучше всегда говорить &quot;да ну&quot;<br>
+И мечтать, когда вусмерть пьян.<br>
+<br>
+Я так много не знаю, но не боюсь,<br>
+Ведь зачем мне лес, если есть комната?<br>
+Здесь всё, что мне очень дорого:<br>
+Запах пыли и давление люстр.<br>
+<br>
+Мой плюс в том, что я ограничен.<br>
+Говорить об этом горжусь, а что мне?<br>
+Хочешь поговорить о шторме?<br>
+Предупреждаю, мне на него безразлично.<br>
+<br>
+Я никогда не видел океан,<br>
+Виной тому то ли родители, то ли я.<br>
+А если не люблю я поля,<br>
+А если я постоянно пьян?
+</div>
+<br><br>
+
+<div class="copyright">&copy; Copyright: <a href="/avtor/amourety">Шварц Вадим Николаевич</a>, 2016<br>
+Свидетельство о публикации №116020410566
+<script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<span class="yashare-auto-init" style="font-family:Times,Times New Roman; font-size:80%; margin-left:20px" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,lj,gplus"></span>
+</div>
+<div class="copyright">
+<a href="/readers.html?2016/02/04/10566">Список читателей</a>
+/ <a href="/2016/02/04/10566" target="_blank">Версия для печати</a>
+/ <a href="/login/promo.html?anons&link=2016/02/04/10566">Разместить анонс</a>
+/ <a href="/complain.html?text_2016/02/04/10566">Заявить о нарушении</a>
+</div>
+<div class="copyright"><a href="/avtor/amourety">Другие произведения автора Шварц Вадим Николаевич</a></div>
+<div class="titlerec">Рецензии</div>
+<div class="notesline"><a href="/addrec.html?2016/02/04/10566">Написать рецензию</a></div>
+<div class="notesline"><a href="/avtor/amourety">Другие произведения автора Шварц Вадим Николаевич</a></div>
+  </index>
+  </div>
+  <div id="footer">
+    <div class="footmenu">
+      <a href="/authors/">Авторы</a>&nbsp;&nbsp; 
+      <a href="/poems/">Произведения</a>&nbsp;&nbsp; 
+      <a href="/board/">Рецензии</a>&nbsp;&nbsp; 
+      <a href="/search.html">Поиск</a>&nbsp;&nbsp; 
+      <a href="https://shop.stihi.ru/">Магазин</a>&nbsp;&nbsp; 
+      <a href="/login/"><nobr>Вход для авторов</nobr></a>&nbsp;&nbsp; 
+      <a href="https://o.stihi.ru/"><nobr>О портале</nobr></a>&nbsp;&nbsp;&nbsp;
+      <a href="https://stihi.ru/">Стихи.ру</a>&nbsp;&nbsp; 
+      <a href="https://proza.ru/">Проза.ру</a>
+    </div>
+
+    <table border="0" cellpadding="5" cellspacing="0" wspace="3" hspace="3" align="right">
+      <tr>
+       <td valign="top"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/rating/ru/literature/' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.2;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'></a>")
+//--></script><!--/LiveInternet-->
+</td>
+      </tr>
+    </table>
+    <p>Портал Стихи.ру предоставляет авторам возможность свободной публикации своих литературных произведений в сети Интернет на основании <a href="https://o.stihi.ru/dogovor">пользовательского договора</a>. Все авторские права на произведения принадлежат авторам и охраняются <a href="https://o.stihi.ru/pravo">законом</a>. Перепечатка произведений возможна только с согласия его автора, к которому вы можете обратиться на его авторской странице. Ответственность за тексты произведений авторы несут самостоятельно на основании <a href="https://o.stihi.ru/pravila">правил публикации</a> и <a href="https://o.stihi.ru/pravo">законодательства Российской Федерации</a>. Данные пользователей обрабатываются на основании <a href="https://o.stihi.ru/policy">Политики обработки персональных данных</a>. Вы также можете посмотреть более подробную <a href="https://o.stihi.ru/">информацию о портале</a> и <a href="/help/">связаться с администрацией</a>.</p>
+    <p>Ежедневная аудитория портала Стихи.ру &ndash; порядка 200 тысяч посетителей, которые в общей сумме просматривают более двух миллионов страниц по данным счетчика посещаемости, который расположен справа от этого текста. В каждой графе указано по две цифры: количество просмотров и количество посетителей.</p>
+    <p>&copy; Все права принадлежат авторам, 2000-2021. &nbsp; Портал работает под эгидой <a href="https://rossp.ru/" target="_blank">Российского союза писателей</a>. <span style="color:#F00000">18+</span></p>
+  </div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(82264, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/82264" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-12103338-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+if((self.parent&&!(self.parent===self))&&(self.parent.frames.length!=0)){self.parent.location=document.location}
+</script>
+
+</div>
+
+</body>
+</html>
+
