@@ -1,15 +1,14 @@
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from alphabet_detector import AlphabetDetector
+from stop_words import get_stop_words
+
 import collections
 import math
 import os
 import string
-
 import nltk
 import pymorphy2
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-
-from alphabet_detector import AlphabetDetector
-from stop_words import get_stop_words
 
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
